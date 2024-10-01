@@ -17,6 +17,6 @@ object alpiste {
 	method position() = game.at(2, 2)
 
 	method energiaQueOtorga() = 70
-
+	
 }
 
